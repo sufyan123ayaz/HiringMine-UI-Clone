@@ -1,6 +1,6 @@
 # 💼 Hiring Mine Job Portal Clone 🚀
 
-A modern job portal clone replicating Hiring Mine's core functionality, built with Bootstrap 5 and vanilla JavaScript. Connects job seekers with employers through real-time API integration.
+A modern job portal clone replicating Hiring Mine's core functionality, built with Bootstrap 5 and vanilla JavaScript. Connects job seekers with employers through real time API integration.
 
 ![Project Banner](./assets/banner_career-4b7d86fb.webp)
 
